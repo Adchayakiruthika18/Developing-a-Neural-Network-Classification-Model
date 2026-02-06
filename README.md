@@ -80,4 +80,5 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 <img width="482" height="103" alt="image" src="https://github.com/user-attachments/assets/8c73e87e-8670-4951-8d9b-fd1742a4950e" />
 
 ## RESULT
-Include your result here
+A neural network classification model was successfully developed and trained to accurately predict customer segments (A, B, C, and D) for new market data.
+
